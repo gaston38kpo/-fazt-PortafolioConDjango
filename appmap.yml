@@ -1,0 +1,27 @@
+name: portfolio-fazt
+packages:
+- path: tomli
+- path: wrapt
+- path: pylint_django
+- path: pylint_plugin_utils
+- path: dill
+- path: _distutils_hack
+- path: PIL
+- path: portfolio
+- path: wheel
+- path: portfolio_fazt
+- path: django
+- path: sqlparse
+- path: astroid
+- path: blog
+- path: asgiref
+- path: pylint
+- path: setuptools
+- path: colorama
+- path: pkg_resources
+- path: tzdata
+- path: lazy_object_proxy
+- path: isort
+- path: pip
+- path: toml
+- path: platformdirs
